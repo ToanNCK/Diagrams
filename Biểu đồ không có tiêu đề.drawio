@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-14T09:03:10.364Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="zeBanJSclgod4NuqOm84" version="24.4.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-05-14T09:05:14.710Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="DAFhB8oSvO6s0__q7P-O" version="24.4.0" type="github" pages="2">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Luồng khảo sát cơ bản">
     <mxGraphModel dx="1434" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -173,7 +173,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="0Q86ocEKy_Fa-Rhi-Ork-42" value="&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;Cơ chế chính sách, quy chế vận hành&lt;/blockquote&gt;" style="rounded=0;whiteSpace=wrap;html=1;rotation=-90;fillColor=#fff2cc;strokeColor=#d6b656;align=left;" vertex="1" parent="1">
+        <mxCell id="0Q86ocEKy_Fa-Rhi-Ork-42" value="&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;Phân vùng lõi&lt;/blockquote&gt;" style="rounded=0;whiteSpace=wrap;html=1;rotation=-90;fillColor=#fff2cc;strokeColor=#d6b656;align=left;" vertex="1" parent="1">
           <mxGeometry x="-260" y="420" width="640" height="40" as="geometry" />
         </mxCell>
         <mxCell id="0Q86ocEKy_Fa-Rhi-Ork-43" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
