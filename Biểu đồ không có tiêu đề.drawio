@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-14T08:50:50.712Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="Mi6mLZXCOLme58b0g969" version="24.4.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-05-14T08:56:07.364Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="g8EuxcJ2ncDsj6mgM7Tj" version="24.4.0" type="github" pages="2">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Luồng khảo sát cơ bản">
     <mxGraphModel dx="1434" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -212,14 +212,11 @@
         <mxCell id="0Q86ocEKy_Fa-Rhi-Ork-54" value="Nền tảng" style="rounded=0;whiteSpace=wrap;html=1;rotation=-90;opacity=0;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
           <mxGeometry x="100" y="420" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="0Q86ocEKy_Fa-Rhi-Ork-55" value="Dịch vụ nền tảng (xã, phương, danh mục dùng chung... )" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="190" y="410" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="0Q86ocEKy_Fa-Rhi-Ork-56" value="Hệ thống đấu thầu QG" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="610" y="410" width="120" height="60" as="geometry" />
+          <mxGeometry x="360" y="410" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="0Q86ocEKy_Fa-Rhi-Ork-57" value="LGSP" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.direct_data;whiteSpace=wrap;perimeterSpacing=0;fillColor=#ffe6cc;strokeColor=#d79b00;shadow=0;" vertex="1" parent="1">
-          <mxGeometry x="190" y="480" width="630" height="25" as="geometry" />
+        <mxCell id="0Q86ocEKy_Fa-Rhi-Ork-57" value="NGSP" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.direct_data;whiteSpace=wrap;perimeterSpacing=0;fillColor=#ffe6cc;strokeColor=#d79b00;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="190" y="480" width="150" height="25" as="geometry" />
         </mxCell>
         <mxCell id="0Q86ocEKy_Fa-Rhi-Ork-58" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="520" width="640" height="120" as="geometry" />
@@ -289,8 +286,23 @@
             <mxPoint x="467.75" y="230" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0Q86ocEKy_Fa-Rhi-Ork-79" value="Hệ thống đấu thầu QG" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="320" y="410" width="120" height="60" as="geometry" />
+        <mxCell id="0Q86ocEKy_Fa-Rhi-Ork-79" value="Hệ thống bộ, ngành 63 tỉnh" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="190" y="410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0Q86ocEKy_Fa-Rhi-Ork-80" value="LGSP" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.direct_data;whiteSpace=wrap;perimeterSpacing=0;fillColor=#ffe6cc;strokeColor=#d79b00;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="352" y="480" width="148" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="0Q86ocEKy_Fa-Rhi-Ork-81" value="VDXP" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.direct_data;whiteSpace=wrap;perimeterSpacing=0;fillColor=#ffe6cc;strokeColor=#d79b00;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="520" y="480" width="130" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="0Q86ocEKy_Fa-Rhi-Ork-82" value="Dịch vụ công QG" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="520" y="410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0Q86ocEKy_Fa-Rhi-Ork-83" value="Web service" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.direct_data;whiteSpace=wrap;perimeterSpacing=0;fillColor=#ffe6cc;strokeColor=#d79b00;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="680" y="480" width="130" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="0Q86ocEKy_Fa-Rhi-Ork-84" value="Thuế, BHXH VN" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="680" y="410" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
