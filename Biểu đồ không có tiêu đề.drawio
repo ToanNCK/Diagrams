@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-14T08:05:23.292Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="O6yKQAPjja2Ip6XyNHNO" version="24.4.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-05-14T08:05:51.652Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="uS-CorBzBfyJ7_BlGLaX" version="24.4.0" type="github" pages="2">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Luồng khảo sát cơ bản">
     <mxGraphModel dx="1434" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -168,7 +168,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="mDintRD9pBYYhJ97Tr-D" name="Mô hình kiến trúc hệ thống">
+  <diagram id="mDintRD9pBYYhJ97Tr-D" name="Mô hình kiến trúc hệ thống ĐKKD">
     <mxGraphModel dx="1434" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
