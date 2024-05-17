@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-17T03:28:08.424Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="mX4IdN9gOH6Xfuo4nsEO" version="24.4.3" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-05-17T04:06:44.603Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="E8bkrVCLEI54MRJbPPDG" version="24.4.3" type="github" pages="2">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Luồng khảo sát cơ bản">
     <mxGraphModel dx="1434" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -195,7 +195,7 @@
           <mxGeometry x="120" y="240" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="0Q86ocEKy_Fa-Rhi-Ork-49" value="Trinh duyệt máy tính" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="190" y="250" width="240" height="60" as="geometry" />
+          <mxGeometry x="190" y="250" width="270" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0Q86ocEKy_Fa-Rhi-Ork-50" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="120" y="320" width="720" height="80" as="geometry" />
@@ -305,8 +305,8 @@
         <mxCell id="0Q86ocEKy_Fa-Rhi-Ork-138" value="Cá nhân, tổ chức" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/user_accounts.svg;" parent="1" vertex="1">
           <mxGeometry x="645" y="150" width="50" height="48.5" as="geometry" />
         </mxCell>
-        <mxCell id="l6pzGPAXUEMvGEZyik_--1" value="Trinh duyệt máy tính" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="520" y="250" width="310" height="60" as="geometry" />
+        <mxCell id="l6pzGPAXUEMvGEZyik_--1" value="Ứng dụng trên điện thoại" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="510" y="250" width="310" height="60" as="geometry" />
         </mxCell>
         <mxCell id="l6pzGPAXUEMvGEZyik_--2" value="Khác..&amp;nbsp;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="710" y="535" width="60" height="90" as="geometry" />
