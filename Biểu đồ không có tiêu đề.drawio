@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-17T03:21:58.523Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="Gil0vwe1yrrA5PabH0h6" version="24.4.3" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-05-17T03:28:08.424Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="mX4IdN9gOH6Xfuo4nsEO" version="24.4.3" type="github" pages="2">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Luồng khảo sát cơ bản">
     <mxGraphModel dx="1434" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -169,7 +169,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="mDintRD9pBYYhJ97Tr-D" name="Mô hình kiến trúc hệ thống ĐKKD">
-    <mxGraphModel dx="1434" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1687" dy="918" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -216,7 +216,7 @@
           <mxGeometry x="349.25" y="410" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0Q86ocEKy_Fa-Rhi-Ork-57" value="Trục tích hợp nội bộ" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.direct_data;whiteSpace=wrap;perimeterSpacing=0;fillColor=#ffe6cc;strokeColor=#d79b00;shadow=0;" parent="1" vertex="1">
-          <mxGeometry x="190" y="480" width="600" height="25" as="geometry" />
+          <mxGeometry x="190" y="480" width="610" height="25" as="geometry" />
         </mxCell>
         <mxCell id="0Q86ocEKy_Fa-Rhi-Ork-58" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="120" y="520" width="720" height="120" as="geometry" />
@@ -313,6 +313,67 @@
         </mxCell>
         <mxCell id="l6pzGPAXUEMvGEZyik_--3" value="CSDL&lt;br&gt;người dùng" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="610" y="535" width="60" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="l6pzGPAXUEMvGEZyik_--6" value="NGSP" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.direct_data;whiteSpace=wrap;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" vertex="1" parent="1">
+          <mxGeometry x="973" y="193.5" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="l6pzGPAXUEMvGEZyik_--7" value="LGSP" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.direct_data;whiteSpace=wrap;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" vertex="1" parent="1">
+          <mxGeometry x="973" y="353.5" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="l6pzGPAXUEMvGEZyik_--8" value="Các hệ thống&amp;nbsp;&lt;br&gt;&amp;nbsp;của Bộ, Ngành, địa phương...&amp;nbsp;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1173" y="153.5" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="l6pzGPAXUEMvGEZyik_--9" value="Các ứng dụng, hệ thống thuộc Bộ khác" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1173" y="313.5" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="l6pzGPAXUEMvGEZyik_--10" value="Văn phòng chính phủ" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="1173" y="473.5" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="l6pzGPAXUEMvGEZyik_--14" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.01;entryY=0.61;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#1ba1e2;strokeColor=#006EAF;strokeWidth=2;" edge="1" parent="1" source="l6pzGPAXUEMvGEZyik_--6" target="l6pzGPAXUEMvGEZyik_--8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="613" y="423.5" as="sourcePoint" />
+            <mxPoint x="1173" y="203.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l6pzGPAXUEMvGEZyik_--15" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.61;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#1ba1e2;strokeColor=#006EAF;strokeWidth=2;" edge="1" parent="1" source="l6pzGPAXUEMvGEZyik_--7" target="l6pzGPAXUEMvGEZyik_--9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1103" y="223.5" as="sourcePoint" />
+            <mxPoint x="1184" y="224.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l6pzGPAXUEMvGEZyik_--16" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#1ba1e2;strokeColor=#006EAF;strokeWidth=2;" edge="1" parent="1" source="l6pzGPAXUEMvGEZyik_--6" target="l6pzGPAXUEMvGEZyik_--7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1103" y="383.5" as="sourcePoint" />
+            <mxPoint x="1181" y="382.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l6pzGPAXUEMvGEZyik_--17" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#1ba1e2;strokeColor=#006EAF;strokeWidth=2;" edge="1" parent="1" source="l6pzGPAXUEMvGEZyik_--7" target="0Q86ocEKy_Fa-Rhi-Ork-57">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1043" y="243.5" as="sourcePoint" />
+            <mxPoint x="810" y="498.5" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="940" y="374" />
+              <mxPoint x="940" y="493" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l6pzGPAXUEMvGEZyik_--24" value="VDXP" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.direct_data;whiteSpace=wrap;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" vertex="1" parent="1">
+          <mxGeometry x="980" y="520" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="l6pzGPAXUEMvGEZyik_--25" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0;entryY=0.61;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#1ba1e2;strokeColor=#006EAF;strokeWidth=2;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1110" y="541" as="sourcePoint" />
+            <mxPoint x="1173" y="540.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l6pzGPAXUEMvGEZyik_--26" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.998;entryY=0.88;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#1ba1e2;strokeColor=#006EAF;strokeWidth=2;" edge="1" parent="1" source="l6pzGPAXUEMvGEZyik_--24" target="0Q86ocEKy_Fa-Rhi-Ork-57">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="983" y="383" as="sourcePoint" />
+            <mxPoint x="810" y="503" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="950" y="503" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
