@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-17T04:15:56.579Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="wmT4obGINgGZhROmKSgZ" version="24.4.3" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-05-17T04:32:06.389Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="MVz7OdSsD_OPfIcVIx6j" version="24.4.3" type="github" pages="2">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Luồng khảo sát cơ bản">
     <mxGraphModel dx="1434" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -314,10 +314,10 @@
         <mxCell id="l6pzGPAXUEMvGEZyik_--3" value="CSDL&lt;br&gt;người dùng" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="610" y="535" width="60" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="l6pzGPAXUEMvGEZyik_--6" value="NGSP" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.direct_data;whiteSpace=wrap;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" vertex="1" parent="1">
+        <mxCell id="l6pzGPAXUEMvGEZyik_--6" value="LGSP" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.direct_data;whiteSpace=wrap;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" vertex="1" parent="1">
           <mxGeometry x="973" y="193.5" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="l6pzGPAXUEMvGEZyik_--7" value="LGSP" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.direct_data;whiteSpace=wrap;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" vertex="1" parent="1">
+        <mxCell id="l6pzGPAXUEMvGEZyik_--7" value="NGSP" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.direct_data;whiteSpace=wrap;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" vertex="1" parent="1">
           <mxGeometry x="973" y="353.5" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="l6pzGPAXUEMvGEZyik_--8" value="Các hệ thống&amp;nbsp;&lt;br&gt;&amp;nbsp;của Bộ, Ngành, địa phương...&amp;nbsp;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
